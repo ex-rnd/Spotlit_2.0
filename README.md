@@ -6,3 +6,7 @@ Spotlit now supports crackling, fact checking and look up!!!
 
 https://github.com/ex-rnd/Spotlit_2.0/assets/121459880/26f77787-5afb-4dc7-8c22-d97ebdc9f21e
 
+
+
+https://github.com/ex-rnd/Spotlit_2.0/assets/121459880/b6f01087-d658-45bb-8f61-3b0fc3ad0ac2
+
