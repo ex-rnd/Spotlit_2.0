@@ -22,9 +22,9 @@ A modern social network promoting safe and informed online social interactions! 
 
 
 
-
-<p align="center">
 ## Get Feedback
+<p align="center">
+
 
 - [feedmereadmes](https://github.com/LappleApple/feedmereadmes#readme) - Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
 - [maintainer.io](https://maintainer.io/) - Free README standardization and feedback, if you click on 'Book an audit'.
