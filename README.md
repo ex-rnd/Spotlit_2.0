@@ -1,6 +1,10 @@
 # Spotlit_2.0
 A demo for a modern social network promoting safe and informed online social interactions! It allows for positive interactions by cutting the downsides of human nature and making users aware of their emotional states!  It also brings knowledge to the fingertips of users to make them more informed and less assuming of what they don't know!
 
+## 🔥 Spotlit Demo (Video)
+
+https://github.com/user-attachments/assets/4e5f0016-c71d-4a12-9175-b6c628436596
+
 ## 🥳 Current Updates on Spotlit [Empowering Safe Online Interactions] . . .  
 
 <p align="center">
